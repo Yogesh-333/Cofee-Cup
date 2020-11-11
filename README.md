@@ -5,12 +5,12 @@ A new Flutter application.
 Create a project in FireBase paste the json file under android->app . Good to go
 
 <img src="https://github.com/Yogesh-333/Cofee-Cup/blob/master/ouput/screen-1.gif" align="left" height="750" width="400" >
-<a href="url"><img src="https://github.com/Yogesh-333/Cofee-Cup/blob/master/ouput/screen-2.gif" align="right" height="750" width="400" ></a>
-<a href="url"><img src="https://github.com/Yogesh-333/Cofee-Cup/blob/master/ouput/screen-3.gif" align="left" height="750" width="400" ></a>
-<a href="url"><img src="https://github.com/Yogesh-333/Cofee-Cup/blob/master/ouput/screen-4.gif" align="left" height="750" width="400" ></a>
-<a href="url"><img src="https://github.com/Yogesh-333/Cofee-Cup/blob/master/ouput/screen-5.gif" align="left" height="750" width="400" ></a>
-<a href="url"><img src="https://github.com/Yogesh-333/Cofee-Cup/blob/master/ouput/screen-7.gif" align="left" height="750" width="400" ></a>
-<a href="url"><img src="https://github.com/Yogesh-333/Cofee-Cup/blob/master/ouput/screen-8.gif" align="left" height="750" width="400" ></a>
+<img src="https://github.com/Yogesh-333/Cofee-Cup/blob/master/ouput/screen-2.gif" align="left" height="750" width="400" >
+<img src="https://github.com/Yogesh-333/Cofee-Cup/blob/master/ouput/screen-3.gif" align="right" height="750" width="400" >
+<img src="https://github.com/Yogesh-333/Cofee-Cup/blob/master/ouput/screen-4.gif" align="left" height="750" width="400" >
+<img src="https://github.com/Yogesh-333/Cofee-Cup/blob/master/ouput/screen-5.gif" align="right" height="750" width="400" >
+<img src="https://github.com/Yogesh-333/Cofee-Cup/blob/master/ouput/screen-7.gif" align="left" height="750" width="400" >
+<img src="https://github.com/Yogesh-333/Cofee-Cup/blob/master/ouput/screen-8.gif" align="right" height="750" width="400" >
 
 ## Getting Started
 
