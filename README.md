@@ -4,7 +4,7 @@ A new Flutter application.
 
 Create a project in FireBase paste the json file under android->app . Good to go
 
-<a href="url"><img src="https://github.com/Yogesh-333/Weather-Flutter/blob/master/finaloutput.gif" align="left" height="750" width="400" ></a>
+<a href="url"><img src="https://github.com/Yogesh-333/Cofee-Cup/blob/master/ouput/screen-1.gif" align="left" height="750" width="400" ></a>
 
 ## Getting Started
 
