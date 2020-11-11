@@ -11,10 +11,10 @@ Create a project in FireBase paste the json file under android->app . Good to go
 <img src="https://github.com/Yogesh-333/Cofee-Cup/blob/master/ouput/screen-5.gif" align="left" height="750" width="400" >
 <img src="https://github.com/Yogesh-333/Cofee-Cup/blob/master/ouput/screen-7.gif" align="right" height="750" width="400" >
 <img src="https://github.com/Yogesh-333/Cofee-Cup/blob/master/ouput/screen-8.gif" align="left" height="750" width="400" >
-<img src="https://github.com/Yogesh-333/Cofee-Cup/blob/master/ouput/screen-9.gif" align="right" height="750" width="400" >
+
 
 ## Getting Started
-
+## footer
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
